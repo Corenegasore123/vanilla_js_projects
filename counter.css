@@ -1,0 +1,22 @@
+button{
+    background-color: rgb(74, 74, 231);
+    color: aliceblue;
+    padding: 10px 20px;
+    font: 150%;
+    border: 1px solid rgb(19, 19, 61) ;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+button:hover{
+    opacity: 0.9;
+}
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn{
+    text-align: center;
+}

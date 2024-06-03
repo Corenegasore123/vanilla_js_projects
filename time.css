@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background: url(Eiffel/Eiffel\ tower.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#clock{
+    font-size: 85px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 7px;
+    backdrop-filter: blur(25px);
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 760px;
+}
